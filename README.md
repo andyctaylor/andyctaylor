@@ -5,9 +5,9 @@
 Software engineer with 2 years of Python development experience and 12+ years in IT, specializing in scalable web applications, API design, and DevOps for SaaS. Proven success in optimizing workﬂows: reduced API response time by 15% for Plus Ultra Solutions. Proﬁcient in Python, Django, Flask, RESTful APIs, PostgreSQL, Docker, and Agile development.
 
 - 🌍  I'm based in 30 N Gould St STE 22284
-- 🖥️  See my portfolio at [My Portfolio](http://angelusct.com)
-- ✉️  You can contact me at [angelus@angelusct.com](mailto:angelus@angelusct.com)
-- 🚀  I'm currently working on [My blog](http://angelusct.com/blog)
+- 🖥️  See my portfolio at [My Portfolio](https://plusultras.org)
+- ✉️  You can contact me at [actaylor@plusultras.org](mailto:actaylor@plusultras.org)
+- 🚀  I'm currently working on [My blog](https://actaylor@plusultras.org/blog)
 - 🧠  I'm learning Django & Machine learning models
 - 🤝  I'm open to collaborating on Web development on AI projects
 - ⚡  My overall goal is to have built my the first draft of my artificial intelligent life form by next year.
